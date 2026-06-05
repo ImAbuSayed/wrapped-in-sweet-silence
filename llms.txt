@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wrapped-in-sweet-silence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Wrapped In Sweet Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-sweet-silence/) |
+| **Get License** | [Music Rights & Licensing for Wrapped In Sweet Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-sweet-silence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2711)
 
 ---
 
