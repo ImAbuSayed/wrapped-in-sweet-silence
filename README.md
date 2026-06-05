@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wrapped-in-sweet-silence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Wrapped In Sweet Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-sweet-silence/) |
+| **Get License** | [Secure Licensing Rights for Wrapped In Sweet Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-in-sweet-silence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight falls and the shadows play
+> I can feel your warmth from a mile away
+> Just a look from you sets the room on fire
+> Tangled up inside this slow desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
